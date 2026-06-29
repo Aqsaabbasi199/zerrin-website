@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "inter";
+    src: url(./fonts/Inter_18pt-SemiBold.ttf);
+}
+
+
+
+
+
+
+
+
+
+
 .color{
     background-color: #7C4EE4;
 
@@ -6,3 +20,18 @@
     background-color:  #7C4EE4;
 
 }
+.text-white{
+    color: white !important;
+}
+.btn-size{
+   
+    color: black;
+}
+.bg-white{
+    background-color: white !important;
+}
+.btn-size2{
+   
+    color: #7C4EE4;
+}
+
